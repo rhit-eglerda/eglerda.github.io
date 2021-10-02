@@ -68,7 +68,7 @@ p {
     outline: none;
     background-color: var(--heading-color);
     color: white;
-    /* cursor: pointer; */
+    cursor: pointer;
     padding: 15px;
     border-radius: 4px;
   }
